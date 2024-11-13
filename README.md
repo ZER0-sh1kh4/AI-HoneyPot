@@ -8,17 +8,23 @@ This project demonstrates an AI-embedded honeypot designed to detect, monitor, a
 
 ## Features
 **Cowrie Honeypot:** Emulates SSH and Telnet services to attract attackers, logging all interactions.
+
 **AI Analysis:** Uses machine learning algorithms to detect and categorize attacks based on behavioral analysis.
+
 **Real-Time Alerts:** Implements alerting mechanisms for high-risk activities.
+
 **Data Visualization:** Displays attack trends, types, and origin analysis for easier interpretation and understanding.
 
  ## Tech Stack
 1. **HTML, CSS, JavaScript:** Used to create the frontend interface.
 
-**HTML:** Structure of the web page.
-**CSS:** Styling for table layout, fonts, colors, etc.
-**JavaScript:** Handles form submission, fetch requests, and dynamic content updates.
-**Bootstrap:** Provides a responsive and styled framework for HTML components (e.g., table, buttons, form).
+  **HTML:** Structure of the web page.
+
+  **CSS:** Styling for table layout, fonts, colors, etc.
+
+  **JavaScript:** Handles form submission, fetch requests, and dynamic content updates.
+
+  **Bootstrap:** Provides a responsive and styled framework for HTML components (e.g., table, buttons, form).
 
 2. **Flask:** A lightweight web framework for Python to build the backend API and serve the HTML pages.
 
@@ -29,7 +35,9 @@ This project demonstrates an AI-embedded honeypot designed to detect, monitor, a
 5. **Cowrie Honeypot:** Logs attacker interactions with the honeypot; provides data for AI analysis.
 
 6. **Python:**
+   
    **Flask Integration:** Server logic and API endpoint management.
+   
    **Data Handling:** Parsing and analyzing log entries from Cowrie.
 
 ## Installation
