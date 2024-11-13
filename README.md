@@ -28,12 +28,12 @@ This project demonstrates an AI-embedded honeypot designed to detect, monitor, a
 
 5. **Cowrie Honeypot:** Logs attacker interactions with the honeypot; provides data for AI analysis.
 
-6.**Python:**
-  **Flask Integration:** Server logic and API endpoint management.
-  **Data Handling:** Parsing and analyzing log entries from Cowrie.
+6. **Python:**
+   **Flask Integration:** Server logic and API endpoint management.
+   **Data Handling:** Parsing and analyzing log entries from Cowrie.
 
 ## Installation
-## Prerequisites
+**Prerequisites**
 **Kali Linux or Ubuntu:** Ensure that your operating system is set up.
 **Python 3.x:** Required for running Cowrie and the AI scripts.
 **Cowrie:** Install and configure the Cowrie honeypot.
