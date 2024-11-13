@@ -18,13 +18,13 @@ This project demonstrates an AI-embedded honeypot designed to detect, monitor, a
  ## Tech Stack
 1. **HTML, CSS, JavaScript:** Used to create the frontend interface.
 
-  **HTML:** Structure of the web page.
+    **HTML:** Structure of the web page.
 
-  **CSS:** Styling for table layout, fonts, colors, etc.
+    **CSS:** Styling for table layout, fonts, colors, etc.
 
-  **JavaScript:** Handles form submission, fetch requests, and dynamic content updates.
+    **JavaScript:** Handles form submission, fetch requests, and dynamic content updates.
 
-  **Bootstrap:** Provides a responsive and styled framework for HTML components (e.g., table, buttons, form).
+    **Bootstrap:** Provides a responsive and styled framework for HTML components (e.g., table, buttons, form).
 
 2. **Flask:** A lightweight web framework for Python to build the backend API and serve the HTML pages.
 
